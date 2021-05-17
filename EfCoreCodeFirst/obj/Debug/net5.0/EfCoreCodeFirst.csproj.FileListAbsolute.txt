@@ -1,0 +1,204 @@
+E:\Questpond\Remaining folder\Youtube\Learning Never Ends(CSharp)\LINQ\EntityFrameworkCore\EfCoreCodeFirst\bin\Debug\net5.0\appsettings.Development.json
+E:\Questpond\Remaining folder\Youtube\Learning Never Ends(CSharp)\LINQ\EntityFrameworkCore\EfCoreCodeFirst\bin\Debug\net5.0\appsettings.json
+E:\Questpond\Remaining folder\Youtube\Learning Never Ends(CSharp)\LINQ\EntityFrameworkCore\EfCoreCodeFirst\bin\Debug\net5.0\EfCoreCodeFirst.exe
+E:\Questpond\Remaining folder\Youtube\Learning Never Ends(CSharp)\LINQ\EntityFrameworkCore\EfCoreCodeFirst\bin\Debug\net5.0\EfCoreCodeFirst.deps.json
+E:\Questpond\Remaining folder\Youtube\Learning Never Ends(CSharp)\LINQ\EntityFrameworkCore\EfCoreCodeFirst\bin\Debug\net5.0\EfCoreCodeFirst.runtimeconfig.json
+E:\Questpond\Remaining folder\Youtube\Learning Never Ends(CSharp)\LINQ\EntityFrameworkCore\EfCoreCodeFirst\bin\Debug\net5.0\EfCoreCodeFirst.runtimeconfig.dev.json
+E:\Questpond\Remaining folder\Youtube\Learning Never Ends(CSharp)\LINQ\EntityFrameworkCore\EfCoreCodeFirst\bin\Debug\net5.0\EfCoreCodeFirst.dll
+E:\Questpond\Remaining folder\Youtube\Learning Never Ends(CSharp)\LINQ\EntityFrameworkCore\EfCoreCodeFirst\bin\Debug\net5.0\ref\EfCoreCodeFirst.dll
+E:\Questpond\Remaining folder\Youtube\Learning Never Ends(CSharp)\LINQ\EntityFrameworkCore\EfCoreCodeFirst\bin\Debug\net5.0\EfCoreCodeFirst.pdb
+E:\Questpond\Remaining folder\Youtube\Learning Never Ends(CSharp)\LINQ\EntityFrameworkCore\EfCoreCodeFirst\bin\Debug\net5.0\EfCoreCodeFirst.Views.dll
+E:\Questpond\Remaining folder\Youtube\Learning Never Ends(CSharp)\LINQ\EntityFrameworkCore\EfCoreCodeFirst\bin\Debug\net5.0\EfCoreCodeFirst.Views.pdb
+E:\Questpond\Remaining folder\Youtube\Learning Never Ends(CSharp)\LINQ\EntityFrameworkCore\EfCoreCodeFirst\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\Questpond\Remaining folder\Youtube\Learning Never Ends(CSharp)\LINQ\EntityFrameworkCore\EfCoreCodeFirst\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\Questpond\Remaining folder\Youtube\Learning Never Ends(CSharp)\LINQ\EntityFrameworkCore\EfCoreCodeFirst\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Questpond\Remaining folder\Youtube\Learning Never Ends(CSharp)\LINQ\EntityFrameworkCore\EfCoreCodeFirst\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Questpond\Remaining folder\Youtube\Learning Never Ends(CSharp)\LINQ\EntityFrameworkCore\EfCoreCodeFirst\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Questpond\Remaining folder\Youtube\Learning Never Ends(CSharp)\LINQ\EntityFrameworkCore\EfCoreCodeFirst\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\Questpond\Remaining folder\Youtube\Learning Never Ends(CSharp)\LINQ\EntityFrameworkCore\EfCoreCodeFirst\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Questpond\Remaining folder\Youtube\Learning Never Ends(CSharp)\LINQ\EntityFrameworkCore\EfCoreCodeFirst\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\Questpond\Remaining folder\Youtube\Learning Never Ends(CSharp)\LINQ\EntityFrameworkCore\EfCoreCodeFirst\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\Questpond\Remaining folder\Youtube\Learning Never Ends(CSharp)\LINQ\EntityFrameworkCore\EfCoreCodeFirst\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Questpond\Remaining folder\Youtube\Learning Never Ends(CSharp)\LINQ\EntityFrameworkCore\EfCoreCodeFirst\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\Questpond\Remaining folder\Youtube\Learning Never Ends(CSharp)\LINQ\EntityFrameworkCore\EfCoreCodeFirst\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\Questpond\Remaining folder\Youtube\Learning Never Ends(CSharp)\LINQ\EntityFrameworkCore\EfCoreCodeFirst\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\Questpond\Remaining folder\Youtube\Learning Never Ends(CSharp)\LINQ\EntityFrameworkCore\EfCoreCodeFirst\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Questpond\Remaining folder\Youtube\Learning Never Ends(CSharp)\LINQ\EntityFrameworkCore\EfCoreCodeFirst\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\Questpond\Remaining folder\Youtube\Learning Never Ends(CSharp)\LINQ\EntityFrameworkCore\EfCoreCodeFirst\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\Questpond\Remaining folder\Youtube\Learning Never Ends(CSharp)\LINQ\EntityFrameworkCore\EfCoreCodeFirst\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Questpond\Remaining folder\Youtube\Learning Never Ends(CSharp)\LINQ\EntityFrameworkCore\EfCoreCodeFirst\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Questpond\Remaining folder\Youtube\Learning Never Ends(CSharp)\LINQ\EntityFrameworkCore\EfCoreCodeFirst\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Questpond\Remaining folder\Youtube\Learning Never Ends(CSharp)\LINQ\EntityFrameworkCore\EfCoreCodeFirst\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Questpond\Remaining folder\Youtube\Learning Never Ends(CSharp)\LINQ\EntityFrameworkCore\EfCoreCodeFirst\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Questpond\Remaining folder\Youtube\Learning Never Ends(CSharp)\LINQ\EntityFrameworkCore\EfCoreCodeFirst\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Questpond\Remaining folder\Youtube\Learning Never Ends(CSharp)\LINQ\EntityFrameworkCore\EfCoreCodeFirst\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Questpond\Remaining folder\Youtube\Learning Never Ends(CSharp)\LINQ\EntityFrameworkCore\EfCoreCodeFirst\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Questpond\Remaining folder\Youtube\Learning Never Ends(CSharp)\LINQ\EntityFrameworkCore\EfCoreCodeFirst\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Questpond\Remaining folder\Youtube\Learning Never Ends(CSharp)\LINQ\EntityFrameworkCore\EfCoreCodeFirst\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Questpond\Remaining folder\Youtube\Learning Never Ends(CSharp)\LINQ\EntityFrameworkCore\EfCoreCodeFirst\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Questpond\Remaining folder\Youtube\Learning Never Ends(CSharp)\LINQ\EntityFrameworkCore\EfCoreCodeFirst\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Questpond\Remaining folder\Youtube\Learning Never Ends(CSharp)\LINQ\EntityFrameworkCore\EfCoreCodeFirst\obj\Debug\net5.0\EfCoreCodeFirst.csprojAssemblyReference.cache
+E:\Questpond\Remaining folder\Youtube\Learning Never Ends(CSharp)\LINQ\EntityFrameworkCore\EfCoreCodeFirst\obj\Debug\net5.0\EfCoreCodeFirst.GeneratedMSBuildEditorConfig.editorconfig
+E:\Questpond\Remaining folder\Youtube\Learning Never Ends(CSharp)\LINQ\EntityFrameworkCore\EfCoreCodeFirst\obj\Debug\net5.0\EfCoreCodeFirst.AssemblyInfoInputs.cache
+E:\Questpond\Remaining folder\Youtube\Learning Never Ends(CSharp)\LINQ\EntityFrameworkCore\EfCoreCodeFirst\obj\Debug\net5.0\EfCoreCodeFirst.AssemblyInfo.cs
+E:\Questpond\Remaining folder\Youtube\Learning Never Ends(CSharp)\LINQ\EntityFrameworkCore\EfCoreCodeFirst\obj\Debug\net5.0\EfCoreCodeFirst.csproj.CoreCompileInputs.cache
+E:\Questpond\Remaining folder\Youtube\Learning Never Ends(CSharp)\LINQ\EntityFrameworkCore\EfCoreCodeFirst\obj\Debug\net5.0\EfCoreCodeFirst.MvcApplicationPartsAssemblyInfo.cache
+E:\Questpond\Remaining folder\Youtube\Learning Never Ends(CSharp)\LINQ\EntityFrameworkCore\EfCoreCodeFirst\obj\Debug\net5.0\EfCoreCodeFirst.RazorAssemblyInfo.cache
+E:\Questpond\Remaining folder\Youtube\Learning Never Ends(CSharp)\LINQ\EntityFrameworkCore\EfCoreCodeFirst\obj\Debug\net5.0\EfCoreCodeFirst.RazorAssemblyInfo.cs
+E:\Questpond\Remaining folder\Youtube\Learning Never Ends(CSharp)\LINQ\EntityFrameworkCore\EfCoreCodeFirst\obj\Debug\net5.0\staticwebassets\EfCoreCodeFirst.StaticWebAssets.Manifest.cache
+E:\Questpond\Remaining folder\Youtube\Learning Never Ends(CSharp)\LINQ\EntityFrameworkCore\EfCoreCodeFirst\obj\Debug\net5.0\staticwebassets\EfCoreCodeFirst.StaticWebAssets.xml
+E:\Questpond\Remaining folder\Youtube\Learning Never Ends(CSharp)\LINQ\EntityFrameworkCore\EfCoreCodeFirst\obj\Debug\net5.0\scopedcss\bundle\EfCoreCodeFirst.styles.css
+E:\Questpond\Remaining folder\Youtube\Learning Never Ends(CSharp)\LINQ\EntityFrameworkCore\EfCoreCodeFirst\obj\Debug\net5.0\EfCoreCodeFirst.TagHelpers.input.cache
+E:\Questpond\Remaining folder\Youtube\Learning Never Ends(CSharp)\LINQ\EntityFrameworkCore\EfCoreCodeFirst\obj\Debug\net5.0\EfCoreCodeFirst.TagHelpers.output.cache
+E:\Questpond\Remaining folder\Youtube\Learning Never Ends(CSharp)\LINQ\EntityFrameworkCore\EfCoreCodeFirst\obj\Debug\net5.0\EfCoreCodeFirst.RazorCoreGenerate.cache
+E:\Questpond\Remaining folder\Youtube\Learning Never Ends(CSharp)\LINQ\EntityFrameworkCore\EfCoreCodeFirst\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+E:\Questpond\Remaining folder\Youtube\Learning Never Ends(CSharp)\LINQ\EntityFrameworkCore\EfCoreCodeFirst\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\Questpond\Remaining folder\Youtube\Learning Never Ends(CSharp)\LINQ\EntityFrameworkCore\EfCoreCodeFirst\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+E:\Questpond\Remaining folder\Youtube\Learning Never Ends(CSharp)\LINQ\EntityFrameworkCore\EfCoreCodeFirst\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\Questpond\Remaining folder\Youtube\Learning Never Ends(CSharp)\LINQ\EntityFrameworkCore\EfCoreCodeFirst\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Questpond\Remaining folder\Youtube\Learning Never Ends(CSharp)\LINQ\EntityFrameworkCore\EfCoreCodeFirst\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+E:\Questpond\Remaining folder\Youtube\Learning Never Ends(CSharp)\LINQ\EntityFrameworkCore\EfCoreCodeFirst\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+E:\Questpond\Remaining folder\Youtube\Learning Never Ends(CSharp)\LINQ\EntityFrameworkCore\EfCoreCodeFirst\obj\Debug\net5.0\EfCoreCodeFirst.RazorTargetAssemblyInfo.cache
+E:\Questpond\Remaining folder\Youtube\Learning Never Ends(CSharp)\LINQ\EntityFrameworkCore\EfCoreCodeFirst\obj\Debug\net5.0\EfCoreCodeFirst.RazorTargetAssemblyInfo.cs
+E:\Questpond\Remaining folder\Youtube\Learning Never Ends(CSharp)\LINQ\EntityFrameworkCore\EfCoreCodeFirst\obj\Debug\net5.0\EfCoreCodeFirst.Views.pdb
+E:\Questpond\Remaining folder\Youtube\Learning Never Ends(CSharp)\LINQ\EntityFrameworkCore\EfCoreCodeFirst\obj\Debug\net5.0\EfCoreCodeFirst.csproj.CopyComplete
+E:\Questpond\Remaining folder\Youtube\Learning Never Ends(CSharp)\LINQ\EntityFrameworkCore\EfCoreCodeFirst\obj\Debug\net5.0\EfCoreCodeFirst.dll
+E:\Questpond\Remaining folder\Youtube\Learning Never Ends(CSharp)\LINQ\EntityFrameworkCore\EfCoreCodeFirst\obj\Debug\net5.0\ref\EfCoreCodeFirst.dll
+E:\Questpond\Remaining folder\Youtube\Learning Never Ends(CSharp)\LINQ\EntityFrameworkCore\EfCoreCodeFirst\obj\Debug\net5.0\EfCoreCodeFirst.pdb
+E:\Questpond\Remaining folder\Youtube\Learning Never Ends(CSharp)\LINQ\EntityFrameworkCore\EfCoreCodeFirst\obj\Debug\net5.0\EfCoreCodeFirst.genruntimeconfig.cache
+E:\Questpond\Remaining folder\Youtube\Learning Never Ends(CSharp)\ASP.NET Core MVC\EntityFrameworkCore\EfCoreCodeFirst\bin\Debug\net5.0\appsettings.Development.json
+E:\Questpond\Remaining folder\Youtube\Learning Never Ends(CSharp)\ASP.NET Core MVC\EntityFrameworkCore\EfCoreCodeFirst\bin\Debug\net5.0\appsettings.json
+E:\Questpond\Remaining folder\Youtube\Learning Never Ends(CSharp)\ASP.NET Core MVC\EntityFrameworkCore\EfCoreCodeFirst\bin\Debug\net5.0\EfCoreCodeFirst.exe
+E:\Questpond\Remaining folder\Youtube\Learning Never Ends(CSharp)\ASP.NET Core MVC\EntityFrameworkCore\EfCoreCodeFirst\bin\Debug\net5.0\EfCoreCodeFirst.deps.json
+E:\Questpond\Remaining folder\Youtube\Learning Never Ends(CSharp)\ASP.NET Core MVC\EntityFrameworkCore\EfCoreCodeFirst\bin\Debug\net5.0\EfCoreCodeFirst.runtimeconfig.json
+E:\Questpond\Remaining folder\Youtube\Learning Never Ends(CSharp)\ASP.NET Core MVC\EntityFrameworkCore\EfCoreCodeFirst\bin\Debug\net5.0\EfCoreCodeFirst.runtimeconfig.dev.json
+E:\Questpond\Remaining folder\Youtube\Learning Never Ends(CSharp)\ASP.NET Core MVC\EntityFrameworkCore\EfCoreCodeFirst\bin\Debug\net5.0\EfCoreCodeFirst.dll
+E:\Questpond\Remaining folder\Youtube\Learning Never Ends(CSharp)\ASP.NET Core MVC\EntityFrameworkCore\EfCoreCodeFirst\bin\Debug\net5.0\ref\EfCoreCodeFirst.dll
+E:\Questpond\Remaining folder\Youtube\Learning Never Ends(CSharp)\ASP.NET Core MVC\EntityFrameworkCore\EfCoreCodeFirst\bin\Debug\net5.0\EfCoreCodeFirst.pdb
+E:\Questpond\Remaining folder\Youtube\Learning Never Ends(CSharp)\ASP.NET Core MVC\EntityFrameworkCore\EfCoreCodeFirst\bin\Debug\net5.0\EfCoreCodeFirst.Views.dll
+E:\Questpond\Remaining folder\Youtube\Learning Never Ends(CSharp)\ASP.NET Core MVC\EntityFrameworkCore\EfCoreCodeFirst\bin\Debug\net5.0\EfCoreCodeFirst.Views.pdb
+E:\Questpond\Remaining folder\Youtube\Learning Never Ends(CSharp)\ASP.NET Core MVC\EntityFrameworkCore\EfCoreCodeFirst\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\Questpond\Remaining folder\Youtube\Learning Never Ends(CSharp)\ASP.NET Core MVC\EntityFrameworkCore\EfCoreCodeFirst\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\Questpond\Remaining folder\Youtube\Learning Never Ends(CSharp)\ASP.NET Core MVC\EntityFrameworkCore\EfCoreCodeFirst\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Questpond\Remaining folder\Youtube\Learning Never Ends(CSharp)\ASP.NET Core MVC\EntityFrameworkCore\EfCoreCodeFirst\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Questpond\Remaining folder\Youtube\Learning Never Ends(CSharp)\ASP.NET Core MVC\EntityFrameworkCore\EfCoreCodeFirst\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Questpond\Remaining folder\Youtube\Learning Never Ends(CSharp)\ASP.NET Core MVC\EntityFrameworkCore\EfCoreCodeFirst\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\Questpond\Remaining folder\Youtube\Learning Never Ends(CSharp)\ASP.NET Core MVC\EntityFrameworkCore\EfCoreCodeFirst\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Questpond\Remaining folder\Youtube\Learning Never Ends(CSharp)\ASP.NET Core MVC\EntityFrameworkCore\EfCoreCodeFirst\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\Questpond\Remaining folder\Youtube\Learning Never Ends(CSharp)\ASP.NET Core MVC\EntityFrameworkCore\EfCoreCodeFirst\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\Questpond\Remaining folder\Youtube\Learning Never Ends(CSharp)\ASP.NET Core MVC\EntityFrameworkCore\EfCoreCodeFirst\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Questpond\Remaining folder\Youtube\Learning Never Ends(CSharp)\ASP.NET Core MVC\EntityFrameworkCore\EfCoreCodeFirst\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\Questpond\Remaining folder\Youtube\Learning Never Ends(CSharp)\ASP.NET Core MVC\EntityFrameworkCore\EfCoreCodeFirst\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\Questpond\Remaining folder\Youtube\Learning Never Ends(CSharp)\ASP.NET Core MVC\EntityFrameworkCore\EfCoreCodeFirst\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\Questpond\Remaining folder\Youtube\Learning Never Ends(CSharp)\ASP.NET Core MVC\EntityFrameworkCore\EfCoreCodeFirst\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Questpond\Remaining folder\Youtube\Learning Never Ends(CSharp)\ASP.NET Core MVC\EntityFrameworkCore\EfCoreCodeFirst\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\Questpond\Remaining folder\Youtube\Learning Never Ends(CSharp)\ASP.NET Core MVC\EntityFrameworkCore\EfCoreCodeFirst\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\Questpond\Remaining folder\Youtube\Learning Never Ends(CSharp)\ASP.NET Core MVC\EntityFrameworkCore\EfCoreCodeFirst\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Questpond\Remaining folder\Youtube\Learning Never Ends(CSharp)\ASP.NET Core MVC\EntityFrameworkCore\EfCoreCodeFirst\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Questpond\Remaining folder\Youtube\Learning Never Ends(CSharp)\ASP.NET Core MVC\EntityFrameworkCore\EfCoreCodeFirst\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Questpond\Remaining folder\Youtube\Learning Never Ends(CSharp)\ASP.NET Core MVC\EntityFrameworkCore\EfCoreCodeFirst\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Questpond\Remaining folder\Youtube\Learning Never Ends(CSharp)\ASP.NET Core MVC\EntityFrameworkCore\EfCoreCodeFirst\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Questpond\Remaining folder\Youtube\Learning Never Ends(CSharp)\ASP.NET Core MVC\EntityFrameworkCore\EfCoreCodeFirst\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Questpond\Remaining folder\Youtube\Learning Never Ends(CSharp)\ASP.NET Core MVC\EntityFrameworkCore\EfCoreCodeFirst\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Questpond\Remaining folder\Youtube\Learning Never Ends(CSharp)\ASP.NET Core MVC\EntityFrameworkCore\EfCoreCodeFirst\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Questpond\Remaining folder\Youtube\Learning Never Ends(CSharp)\ASP.NET Core MVC\EntityFrameworkCore\EfCoreCodeFirst\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Questpond\Remaining folder\Youtube\Learning Never Ends(CSharp)\ASP.NET Core MVC\EntityFrameworkCore\EfCoreCodeFirst\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Questpond\Remaining folder\Youtube\Learning Never Ends(CSharp)\ASP.NET Core MVC\EntityFrameworkCore\EfCoreCodeFirst\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Questpond\Remaining folder\Youtube\Learning Never Ends(CSharp)\ASP.NET Core MVC\EntityFrameworkCore\EfCoreCodeFirst\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Questpond\Remaining folder\Youtube\Learning Never Ends(CSharp)\ASP.NET Core MVC\EntityFrameworkCore\EfCoreCodeFirst\obj\Debug\net5.0\EfCoreCodeFirst.csprojAssemblyReference.cache
+E:\Questpond\Remaining folder\Youtube\Learning Never Ends(CSharp)\ASP.NET Core MVC\EntityFrameworkCore\EfCoreCodeFirst\obj\Debug\net5.0\EfCoreCodeFirst.GeneratedMSBuildEditorConfig.editorconfig
+E:\Questpond\Remaining folder\Youtube\Learning Never Ends(CSharp)\ASP.NET Core MVC\EntityFrameworkCore\EfCoreCodeFirst\obj\Debug\net5.0\EfCoreCodeFirst.AssemblyInfoInputs.cache
+E:\Questpond\Remaining folder\Youtube\Learning Never Ends(CSharp)\ASP.NET Core MVC\EntityFrameworkCore\EfCoreCodeFirst\obj\Debug\net5.0\EfCoreCodeFirst.AssemblyInfo.cs
+E:\Questpond\Remaining folder\Youtube\Learning Never Ends(CSharp)\ASP.NET Core MVC\EntityFrameworkCore\EfCoreCodeFirst\obj\Debug\net5.0\EfCoreCodeFirst.csproj.CoreCompileInputs.cache
+E:\Questpond\Remaining folder\Youtube\Learning Never Ends(CSharp)\ASP.NET Core MVC\EntityFrameworkCore\EfCoreCodeFirst\obj\Debug\net5.0\EfCoreCodeFirst.MvcApplicationPartsAssemblyInfo.cache
+E:\Questpond\Remaining folder\Youtube\Learning Never Ends(CSharp)\ASP.NET Core MVC\EntityFrameworkCore\EfCoreCodeFirst\obj\Debug\net5.0\EfCoreCodeFirst.RazorAssemblyInfo.cache
+E:\Questpond\Remaining folder\Youtube\Learning Never Ends(CSharp)\ASP.NET Core MVC\EntityFrameworkCore\EfCoreCodeFirst\obj\Debug\net5.0\EfCoreCodeFirst.RazorAssemblyInfo.cs
+E:\Questpond\Remaining folder\Youtube\Learning Never Ends(CSharp)\ASP.NET Core MVC\EntityFrameworkCore\EfCoreCodeFirst\obj\Debug\net5.0\staticwebassets\EfCoreCodeFirst.StaticWebAssets.Manifest.cache
+E:\Questpond\Remaining folder\Youtube\Learning Never Ends(CSharp)\ASP.NET Core MVC\EntityFrameworkCore\EfCoreCodeFirst\obj\Debug\net5.0\staticwebassets\EfCoreCodeFirst.StaticWebAssets.xml
+E:\Questpond\Remaining folder\Youtube\Learning Never Ends(CSharp)\ASP.NET Core MVC\EntityFrameworkCore\EfCoreCodeFirst\obj\Debug\net5.0\scopedcss\bundle\EfCoreCodeFirst.styles.css
+E:\Questpond\Remaining folder\Youtube\Learning Never Ends(CSharp)\ASP.NET Core MVC\EntityFrameworkCore\EfCoreCodeFirst\obj\Debug\net5.0\EfCoreCodeFirst.TagHelpers.input.cache
+E:\Questpond\Remaining folder\Youtube\Learning Never Ends(CSharp)\ASP.NET Core MVC\EntityFrameworkCore\EfCoreCodeFirst\obj\Debug\net5.0\EfCoreCodeFirst.TagHelpers.output.cache
+E:\Questpond\Remaining folder\Youtube\Learning Never Ends(CSharp)\ASP.NET Core MVC\EntityFrameworkCore\EfCoreCodeFirst\obj\Debug\net5.0\EfCoreCodeFirst.RazorCoreGenerate.cache
+E:\Questpond\Remaining folder\Youtube\Learning Never Ends(CSharp)\ASP.NET Core MVC\EntityFrameworkCore\EfCoreCodeFirst\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+E:\Questpond\Remaining folder\Youtube\Learning Never Ends(CSharp)\ASP.NET Core MVC\EntityFrameworkCore\EfCoreCodeFirst\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\Questpond\Remaining folder\Youtube\Learning Never Ends(CSharp)\ASP.NET Core MVC\EntityFrameworkCore\EfCoreCodeFirst\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+E:\Questpond\Remaining folder\Youtube\Learning Never Ends(CSharp)\ASP.NET Core MVC\EntityFrameworkCore\EfCoreCodeFirst\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\Questpond\Remaining folder\Youtube\Learning Never Ends(CSharp)\ASP.NET Core MVC\EntityFrameworkCore\EfCoreCodeFirst\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Questpond\Remaining folder\Youtube\Learning Never Ends(CSharp)\ASP.NET Core MVC\EntityFrameworkCore\EfCoreCodeFirst\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+E:\Questpond\Remaining folder\Youtube\Learning Never Ends(CSharp)\ASP.NET Core MVC\EntityFrameworkCore\EfCoreCodeFirst\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+E:\Questpond\Remaining folder\Youtube\Learning Never Ends(CSharp)\ASP.NET Core MVC\EntityFrameworkCore\EfCoreCodeFirst\obj\Debug\net5.0\EfCoreCodeFirst.RazorTargetAssemblyInfo.cache
+E:\Questpond\Remaining folder\Youtube\Learning Never Ends(CSharp)\ASP.NET Core MVC\EntityFrameworkCore\EfCoreCodeFirst\obj\Debug\net5.0\EfCoreCodeFirst.RazorTargetAssemblyInfo.cs
+E:\Questpond\Remaining folder\Youtube\Learning Never Ends(CSharp)\ASP.NET Core MVC\EntityFrameworkCore\EfCoreCodeFirst\obj\Debug\net5.0\EfCoreCodeFirst.Views.pdb
+E:\Questpond\Remaining folder\Youtube\Learning Never Ends(CSharp)\ASP.NET Core MVC\EntityFrameworkCore\EfCoreCodeFirst\obj\Debug\net5.0\EfCoreCodeFirst.csproj.CopyComplete
+E:\Questpond\Remaining folder\Youtube\Learning Never Ends(CSharp)\ASP.NET Core MVC\EntityFrameworkCore\EfCoreCodeFirst\obj\Debug\net5.0\EfCoreCodeFirst.dll
+E:\Questpond\Remaining folder\Youtube\Learning Never Ends(CSharp)\ASP.NET Core MVC\EntityFrameworkCore\EfCoreCodeFirst\obj\Debug\net5.0\ref\EfCoreCodeFirst.dll
+E:\Questpond\Remaining folder\Youtube\Learning Never Ends(CSharp)\ASP.NET Core MVC\EntityFrameworkCore\EfCoreCodeFirst\obj\Debug\net5.0\EfCoreCodeFirst.pdb
+E:\Questpond\Remaining folder\Youtube\Learning Never Ends(CSharp)\ASP.NET Core MVC\EntityFrameworkCore\EfCoreCodeFirst\obj\Debug\net5.0\EfCoreCodeFirst.genruntimeconfig.cache
+E:\Questpond\9. Asp.Net Core\Entity Framework Core\EntityFrameworkCore\EfCoreCodeFirst\bin\Debug\net5.0\appsettings.Development.json
+E:\Questpond\9. Asp.Net Core\Entity Framework Core\EntityFrameworkCore\EfCoreCodeFirst\bin\Debug\net5.0\appsettings.json
+E:\Questpond\9. Asp.Net Core\Entity Framework Core\EntityFrameworkCore\EfCoreCodeFirst\bin\Debug\net5.0\EfCoreCodeFirst.exe
+E:\Questpond\9. Asp.Net Core\Entity Framework Core\EntityFrameworkCore\EfCoreCodeFirst\bin\Debug\net5.0\EfCoreCodeFirst.deps.json
+E:\Questpond\9. Asp.Net Core\Entity Framework Core\EntityFrameworkCore\EfCoreCodeFirst\bin\Debug\net5.0\EfCoreCodeFirst.runtimeconfig.json
+E:\Questpond\9. Asp.Net Core\Entity Framework Core\EntityFrameworkCore\EfCoreCodeFirst\bin\Debug\net5.0\EfCoreCodeFirst.runtimeconfig.dev.json
+E:\Questpond\9. Asp.Net Core\Entity Framework Core\EntityFrameworkCore\EfCoreCodeFirst\bin\Debug\net5.0\EfCoreCodeFirst.dll
+E:\Questpond\9. Asp.Net Core\Entity Framework Core\EntityFrameworkCore\EfCoreCodeFirst\bin\Debug\net5.0\ref\EfCoreCodeFirst.dll
+E:\Questpond\9. Asp.Net Core\Entity Framework Core\EntityFrameworkCore\EfCoreCodeFirst\bin\Debug\net5.0\EfCoreCodeFirst.pdb
+E:\Questpond\9. Asp.Net Core\Entity Framework Core\EntityFrameworkCore\EfCoreCodeFirst\bin\Debug\net5.0\EfCoreCodeFirst.Views.dll
+E:\Questpond\9. Asp.Net Core\Entity Framework Core\EntityFrameworkCore\EfCoreCodeFirst\bin\Debug\net5.0\EfCoreCodeFirst.Views.pdb
+E:\Questpond\9. Asp.Net Core\Entity Framework Core\EntityFrameworkCore\EfCoreCodeFirst\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\Questpond\9. Asp.Net Core\Entity Framework Core\EntityFrameworkCore\EfCoreCodeFirst\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\Questpond\9. Asp.Net Core\Entity Framework Core\EntityFrameworkCore\EfCoreCodeFirst\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Questpond\9. Asp.Net Core\Entity Framework Core\EntityFrameworkCore\EfCoreCodeFirst\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Questpond\9. Asp.Net Core\Entity Framework Core\EntityFrameworkCore\EfCoreCodeFirst\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Questpond\9. Asp.Net Core\Entity Framework Core\EntityFrameworkCore\EfCoreCodeFirst\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\Questpond\9. Asp.Net Core\Entity Framework Core\EntityFrameworkCore\EfCoreCodeFirst\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Questpond\9. Asp.Net Core\Entity Framework Core\EntityFrameworkCore\EfCoreCodeFirst\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\Questpond\9. Asp.Net Core\Entity Framework Core\EntityFrameworkCore\EfCoreCodeFirst\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\Questpond\9. Asp.Net Core\Entity Framework Core\EntityFrameworkCore\EfCoreCodeFirst\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Questpond\9. Asp.Net Core\Entity Framework Core\EntityFrameworkCore\EfCoreCodeFirst\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\Questpond\9. Asp.Net Core\Entity Framework Core\EntityFrameworkCore\EfCoreCodeFirst\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\Questpond\9. Asp.Net Core\Entity Framework Core\EntityFrameworkCore\EfCoreCodeFirst\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\Questpond\9. Asp.Net Core\Entity Framework Core\EntityFrameworkCore\EfCoreCodeFirst\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Questpond\9. Asp.Net Core\Entity Framework Core\EntityFrameworkCore\EfCoreCodeFirst\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\Questpond\9. Asp.Net Core\Entity Framework Core\EntityFrameworkCore\EfCoreCodeFirst\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\Questpond\9. Asp.Net Core\Entity Framework Core\EntityFrameworkCore\EfCoreCodeFirst\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Questpond\9. Asp.Net Core\Entity Framework Core\EntityFrameworkCore\EfCoreCodeFirst\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Questpond\9. Asp.Net Core\Entity Framework Core\EntityFrameworkCore\EfCoreCodeFirst\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Questpond\9. Asp.Net Core\Entity Framework Core\EntityFrameworkCore\EfCoreCodeFirst\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Questpond\9. Asp.Net Core\Entity Framework Core\EntityFrameworkCore\EfCoreCodeFirst\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Questpond\9. Asp.Net Core\Entity Framework Core\EntityFrameworkCore\EfCoreCodeFirst\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Questpond\9. Asp.Net Core\Entity Framework Core\EntityFrameworkCore\EfCoreCodeFirst\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Questpond\9. Asp.Net Core\Entity Framework Core\EntityFrameworkCore\EfCoreCodeFirst\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Questpond\9. Asp.Net Core\Entity Framework Core\EntityFrameworkCore\EfCoreCodeFirst\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Questpond\9. Asp.Net Core\Entity Framework Core\EntityFrameworkCore\EfCoreCodeFirst\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Questpond\9. Asp.Net Core\Entity Framework Core\EntityFrameworkCore\EfCoreCodeFirst\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Questpond\9. Asp.Net Core\Entity Framework Core\EntityFrameworkCore\EfCoreCodeFirst\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Questpond\9. Asp.Net Core\Entity Framework Core\EntityFrameworkCore\EfCoreCodeFirst\obj\Debug\net5.0\EfCoreCodeFirst.csprojAssemblyReference.cache
+E:\Questpond\9. Asp.Net Core\Entity Framework Core\EntityFrameworkCore\EfCoreCodeFirst\obj\Debug\net5.0\EfCoreCodeFirst.GeneratedMSBuildEditorConfig.editorconfig
+E:\Questpond\9. Asp.Net Core\Entity Framework Core\EntityFrameworkCore\EfCoreCodeFirst\obj\Debug\net5.0\EfCoreCodeFirst.AssemblyInfoInputs.cache
+E:\Questpond\9. Asp.Net Core\Entity Framework Core\EntityFrameworkCore\EfCoreCodeFirst\obj\Debug\net5.0\EfCoreCodeFirst.AssemblyInfo.cs
+E:\Questpond\9. Asp.Net Core\Entity Framework Core\EntityFrameworkCore\EfCoreCodeFirst\obj\Debug\net5.0\EfCoreCodeFirst.csproj.CoreCompileInputs.cache
+E:\Questpond\9. Asp.Net Core\Entity Framework Core\EntityFrameworkCore\EfCoreCodeFirst\obj\Debug\net5.0\EfCoreCodeFirst.MvcApplicationPartsAssemblyInfo.cache
+E:\Questpond\9. Asp.Net Core\Entity Framework Core\EntityFrameworkCore\EfCoreCodeFirst\obj\Debug\net5.0\EfCoreCodeFirst.RazorAssemblyInfo.cache
+E:\Questpond\9. Asp.Net Core\Entity Framework Core\EntityFrameworkCore\EfCoreCodeFirst\obj\Debug\net5.0\EfCoreCodeFirst.RazorAssemblyInfo.cs
+E:\Questpond\9. Asp.Net Core\Entity Framework Core\EntityFrameworkCore\EfCoreCodeFirst\obj\Debug\net5.0\staticwebassets\EfCoreCodeFirst.StaticWebAssets.Manifest.cache
+E:\Questpond\9. Asp.Net Core\Entity Framework Core\EntityFrameworkCore\EfCoreCodeFirst\obj\Debug\net5.0\staticwebassets\EfCoreCodeFirst.StaticWebAssets.xml
+E:\Questpond\9. Asp.Net Core\Entity Framework Core\EntityFrameworkCore\EfCoreCodeFirst\obj\Debug\net5.0\scopedcss\bundle\EfCoreCodeFirst.styles.css
+E:\Questpond\9. Asp.Net Core\Entity Framework Core\EntityFrameworkCore\EfCoreCodeFirst\obj\Debug\net5.0\EfCoreCodeFirst.TagHelpers.input.cache
+E:\Questpond\9. Asp.Net Core\Entity Framework Core\EntityFrameworkCore\EfCoreCodeFirst\obj\Debug\net5.0\EfCoreCodeFirst.TagHelpers.output.cache
+E:\Questpond\9. Asp.Net Core\Entity Framework Core\EntityFrameworkCore\EfCoreCodeFirst\obj\Debug\net5.0\EfCoreCodeFirst.RazorCoreGenerate.cache
+E:\Questpond\9. Asp.Net Core\Entity Framework Core\EntityFrameworkCore\EfCoreCodeFirst\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+E:\Questpond\9. Asp.Net Core\Entity Framework Core\EntityFrameworkCore\EfCoreCodeFirst\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\Questpond\9. Asp.Net Core\Entity Framework Core\EntityFrameworkCore\EfCoreCodeFirst\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+E:\Questpond\9. Asp.Net Core\Entity Framework Core\EntityFrameworkCore\EfCoreCodeFirst\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\Questpond\9. Asp.Net Core\Entity Framework Core\EntityFrameworkCore\EfCoreCodeFirst\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Questpond\9. Asp.Net Core\Entity Framework Core\EntityFrameworkCore\EfCoreCodeFirst\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+E:\Questpond\9. Asp.Net Core\Entity Framework Core\EntityFrameworkCore\EfCoreCodeFirst\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+E:\Questpond\9. Asp.Net Core\Entity Framework Core\EntityFrameworkCore\EfCoreCodeFirst\obj\Debug\net5.0\EfCoreCodeFirst.RazorTargetAssemblyInfo.cache
+E:\Questpond\9. Asp.Net Core\Entity Framework Core\EntityFrameworkCore\EfCoreCodeFirst\obj\Debug\net5.0\EfCoreCodeFirst.RazorTargetAssemblyInfo.cs
+E:\Questpond\9. Asp.Net Core\Entity Framework Core\EntityFrameworkCore\EfCoreCodeFirst\obj\Debug\net5.0\EfCoreCodeFirst.Views.pdb
+E:\Questpond\9. Asp.Net Core\Entity Framework Core\EntityFrameworkCore\EfCoreCodeFirst\obj\Debug\net5.0\EfCoreCodeFirst.csproj.CopyComplete
+E:\Questpond\9. Asp.Net Core\Entity Framework Core\EntityFrameworkCore\EfCoreCodeFirst\obj\Debug\net5.0\EfCoreCodeFirst.dll
+E:\Questpond\9. Asp.Net Core\Entity Framework Core\EntityFrameworkCore\EfCoreCodeFirst\obj\Debug\net5.0\ref\EfCoreCodeFirst.dll
+E:\Questpond\9. Asp.Net Core\Entity Framework Core\EntityFrameworkCore\EfCoreCodeFirst\obj\Debug\net5.0\EfCoreCodeFirst.pdb
+E:\Questpond\9. Asp.Net Core\Entity Framework Core\EntityFrameworkCore\EfCoreCodeFirst\obj\Debug\net5.0\EfCoreCodeFirst.genruntimeconfig.cache

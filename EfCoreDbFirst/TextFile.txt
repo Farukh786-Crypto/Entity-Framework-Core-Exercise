@@ -1,0 +1,4 @@
+﻿Scaffold-DbContext "Server=LAPTOP-8IBNPKQ5\\MSSQLSERVERNEW;Database=StudentEntityDbFirst;Trusted_Connection=True;" 
+Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models
+
+command for database first approach
