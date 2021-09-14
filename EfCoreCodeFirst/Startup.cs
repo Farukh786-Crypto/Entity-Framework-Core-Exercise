@@ -1,6 +1,8 @@
+using EfCoreCodeFirst.Models;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
@@ -24,6 +26,9 @@ namespace EfCoreCodeFirst
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllersWithViews();
+            string cs = "server=DESKTOP-48G00GJ; database=CodeFirstEFCore; trusted_connection=true;";
+            // Database providers
+            services.AddDbContext<EmployeeContext>(options =>options.UseSqlServer(cs)); 
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
