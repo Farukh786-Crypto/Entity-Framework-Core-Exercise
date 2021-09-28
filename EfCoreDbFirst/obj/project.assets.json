@@ -8481,11 +8481,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Entity-Frameowrk-Core-DB-First\\EfCoreDbFirst\\EfCoreDbFirst.csproj",
+      "projectUniqueName": "F:\\Questpond\\3. MVC\\Entity-Frameowrk-Core-DB-First\\EfCoreDbFirst\\EfCoreDbFirst.csproj",
       "projectName": "EfCoreDbFirst",
-      "projectPath": "F:\\Entity-Frameowrk-Core-DB-First\\EfCoreDbFirst\\EfCoreDbFirst.csproj",
+      "projectPath": "F:\\Questpond\\3. MVC\\Entity-Frameowrk-Core-DB-First\\EfCoreDbFirst\\EfCoreDbFirst.csproj",
       "packagesPath": "C:\\Users\\ULTIMATE\\.nuget\\packages\\",
-      "outputPath": "F:\\Entity-Frameowrk-Core-DB-First\\EfCoreDbFirst\\obj\\",
+      "outputPath": "F:\\Questpond\\3. MVC\\Entity-Frameowrk-Core-DB-First\\EfCoreDbFirst\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

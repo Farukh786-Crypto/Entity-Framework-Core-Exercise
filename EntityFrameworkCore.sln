@@ -5,7 +5,13 @@ VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EfCoreDbFirst", "EfCoreDbFirst\EfCoreDbFirst.csproj", "{B1F52238-EC19-487C-9DDD-7F111742BCFC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EfCoreCodeFirst", "EfCoreCodeFirst\EfCoreCodeFirst.csproj", "{D92FFF5F-C505-492E-8062-9E62401D89A5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EfCoreCodeFirst", "EfCoreCodeFirst\EfCoreCodeFirst.csproj", "{D92FFF5F-C505-492E-8062-9E62401D89A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadDatafromDatabase", "ReadDatafromDatabase\ReadDatafromDatabase.csproj", "{30BC04F4-AC28-4F71-A81D-61CFF8E8D256}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreateDataEntityCoreDatabase", "CreateDataEntityCoreDatabase\CreateDataEntityCoreDatabase.csproj", "{3DBE6A1C-DB3E-457F-8078-FA05AB59CFFD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UpdateDataEntityCoreDatabase", "UpdateDataEntityCoreDatabase\UpdateDataEntityCoreDatabase.csproj", "{1C388DB2-2A67-490F-B9AE-C11EC495603B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +27,18 @@ Global
 		{D92FFF5F-C505-492E-8062-9E62401D89A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D92FFF5F-C505-492E-8062-9E62401D89A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D92FFF5F-C505-492E-8062-9E62401D89A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30BC04F4-AC28-4F71-A81D-61CFF8E8D256}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30BC04F4-AC28-4F71-A81D-61CFF8E8D256}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30BC04F4-AC28-4F71-A81D-61CFF8E8D256}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30BC04F4-AC28-4F71-A81D-61CFF8E8D256}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DBE6A1C-DB3E-457F-8078-FA05AB59CFFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DBE6A1C-DB3E-457F-8078-FA05AB59CFFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DBE6A1C-DB3E-457F-8078-FA05AB59CFFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DBE6A1C-DB3E-457F-8078-FA05AB59CFFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C388DB2-2A67-490F-B9AE-C11EC495603B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C388DB2-2A67-490F-B9AE-C11EC495603B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C388DB2-2A67-490F-B9AE-C11EC495603B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C388DB2-2A67-490F-B9AE-C11EC495603B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

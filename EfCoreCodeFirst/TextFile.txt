@@ -1,0 +1,59 @@
+﻿							Entity Framework core
+								---------------------
+
+* ORM -:
+	- To address the data access requirements of ASP.NET CORE MVC application , you can use an 
+	  ORM (OBJECT RELATIONAL MAPPING) framework .
+	- An ORM framework :
+	- Simplifies the process of accessing data from application.
+	- ORM is tool for storing data from domain object (Model classes) to relational database (Sql Server DB) .
+
+
+* Entity Framework Core :
+	- it is ORM , it is open source , lightweight ,extensible and a cross plateform version of Entity Framework .
+	- it is Data Acess Technology
+	- it is an enhancement to ADO.NET that gives developers an automated mechnism for acessing and storing data in the database.
+
+* EF Core Development Approches 
+	- EF Core supports two develpment approches .
+	- 1> Code First
+	- 2> DataBase First
+
+* EF Core DataBase Providers
+	
+	- Example -: SQL , MYSQL , POSTGRE SQL
+
+	EF Core ======>>>>>>    DATABASE PROVIDER  ==================>>>>>> DATABASE 
+
+
+
+											CODE FIRST APPROACH
+											===================
+
+- In this approach, the Entity Framework Core creates database objects based on model classes that 
+  you create to represent application data .
+- The code-first approach allows you to define your model by creating custom classes .
+- then, you can create database based on models .
+
+
+step 1> install Entity framework Core from manage nuget package . Database providers
+		Microsoft.EntityFrameworkCore.SqlServer
+step 2> Create Model class and database contect class
+		it is interact with database using DbContext with namespace using Microsoft.EntityFrameworkCore; 
+step 3> Create connection string inside appsetting.json file and add dependency in startup.cs file
+step 4> Create Controller with views
+step 5> Create migration by using this command "add-migration <name>"
+		Ex : add migration InitialCreate
+
+step 6> Then type "update-database" command
+
+
+
+
+ **** Database First APPROACH
+
+
+Scaffold-DbContext "Server=LAPTOP-8IBNPKQ5\\MSSQLSERVERNEW;Database=StudentEntityDbFirst;Trusted_Connection=True;" 
+Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models
+
+command for database first approach

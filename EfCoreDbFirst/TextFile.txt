@@ -52,6 +52,7 @@ step 6> Then type "update-database" command
 
  **** Database First APPROACH
 
+
 Scaffold-DbContext "Server=LAPTOP-8IBNPKQ5\\MSSQLSERVERNEW;Database=StudentEntityDbFirst;Trusted_Connection=True;" 
 Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models
 
