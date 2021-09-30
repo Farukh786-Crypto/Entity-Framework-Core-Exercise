@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = CreateDataEntityCoreDatabase
-build_property.ProjectDir = F:\Questpond\3. MVC\Entity-Frameowrk-Core-DB-First\CreateDataEntityCoreDatabase\
+build_property.ProjectDir = F:\Questpond\5.Web API\By Sanjay Sir\Source code\Entity-Frameowrk-Core-DB-First\CreateDataEntityCoreDatabase\

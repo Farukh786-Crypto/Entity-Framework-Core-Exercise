@@ -7155,11 +7155,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Questpond\\3. MVC\\Entity-Frameowrk-Core-DB-First\\EfCoreCodeFirst\\EfCoreCodeFirst.csproj",
+      "projectUniqueName": "F:\\Questpond\\5.Web API\\By Sanjay Sir\\Source code\\Entity-Frameowrk-Core-DB-First\\EfCoreCodeFirst\\EfCoreCodeFirst.csproj",
       "projectName": "EfCoreCodeFirst",
-      "projectPath": "F:\\Questpond\\3. MVC\\Entity-Frameowrk-Core-DB-First\\EfCoreCodeFirst\\EfCoreCodeFirst.csproj",
+      "projectPath": "F:\\Questpond\\5.Web API\\By Sanjay Sir\\Source code\\Entity-Frameowrk-Core-DB-First\\EfCoreCodeFirst\\EfCoreCodeFirst.csproj",
       "packagesPath": "C:\\Users\\ULTIMATE\\.nuget\\packages\\",
-      "outputPath": "F:\\Questpond\\3. MVC\\Entity-Frameowrk-Core-DB-First\\EfCoreCodeFirst\\obj\\",
+      "outputPath": "F:\\Questpond\\5.Web API\\By Sanjay Sir\\Source code\\Entity-Frameowrk-Core-DB-First\\EfCoreCodeFirst\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
